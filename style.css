@@ -1,0 +1,39 @@
+body{
+background: rgb(245, 166, 238);
+font-family: 'Dancing Script', cursive;
+}
+
+.header{
+   background:rgb(247, 210, 231); 
+   color:maroon; 
+}
+
+.header p{
+
+    font-family: Georgia;
+    color: firebrick;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{ 
+font-family: Georgia;
+margin-top: 30px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+
+.copy_write_footer{
+    position: fixed;
+    color: maroon;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color:rgb(247, 210, 231);
+    line-height: 3;
+    text-align: center;
+
+    text-shadow: 5px 5px 5px rgb(131, 125, 125);
+}
